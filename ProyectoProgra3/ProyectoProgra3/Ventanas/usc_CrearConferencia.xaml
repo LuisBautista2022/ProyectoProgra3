@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="ProyectoProgra3.Ventanas.usc_CrearConferencia"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ProyectoProgra3.Ventanas"
+             mc:Ignorable="d" 
+              xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="{DynamicResource MaterialDesignPaper}"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             d:DesignHeight="450" d:DesignWidth="610">
+    <Grid>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" Margin="10 20 10 20" Height="40">
+                <TextBox x:Name="txt_NombreConferencia" materialDesign:HintAssist.Hint="Nombre Conferencia" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Text="" Width="200" Margin="5 0 5 0" FontSize="16" Cursor="Arrow"/>
+                <TextBox x:Name="txt_NombreDisertante" materialDesign:HintAssist.Hint="Nombre del Disertante" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Text="" Width="200" Margin="5 0 0 0" FontSize="16" Cursor="Arrow"/>
+                <TextBox x:Name="txt_Celular" materialDesign:HintAssist.Hint="Celular" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Text="" Width="150" Margin="5 0 0 0" FontSize="16" Cursor="Arrow"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10 20 10 20" Height="40">
+                <TextBox x:Name="txt_InfoDisertante" materialDesign:HintAssist.Hint="Información Disertante" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Text="" Width="180" Margin="5 0 5 0" FontSize="16" Cursor="Arrow"/>
+                <TextBox x:Name="txt_Correo" materialDesign:HintAssist.Hint="Correo" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Text="" Width="210" Margin="5 0 0 0" FontSize="16" Cursor="Arrow"/>
+                <materialDesign:TimePicker x:Name="PresetTimePicker" Is24Hours="True" FontSize="16" materialDesign:HintAssist.Hint="Hora" Margin="10 0" Style="{StaticResource MaterialDesignFloatingHintTimePicker}" Width="80" Height="40" />
+                <TextBox x:Name="txt_Precio" materialDesign:HintAssist.Hint="Precio" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Text="" Width="80" Margin="5 0 0 0" FontSize="16" Cursor="Arrow"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10 20 10 20" Height="40" HorizontalAlignment="Center">
+                <DatePicker x:Name="dp_FechaInicio" Width="120" Margin="10 0 10 0" materialDesign:HintAssist.Hint="Fecha Inicio" materialDesign:TextFieldAssist.HasClearButton="True" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" />
+                <DatePicker x:Name="dp_FechaFin" Width="120" Margin="10 0 10 0" materialDesign:HintAssist.Hint="Fecha Fin" materialDesign:TextFieldAssist.HasClearButton="True" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" />
+                <TextBox x:Name="txt_Ubicacion" materialDesign:HintAssist.Hint="Ubicación" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Text="" Width="210" Margin="5 0 0 0" FontSize="16" Cursor="Arrow"/>
+            </StackPanel>
+            <StackPanel Margin="10 20 10 20">
+                <StackPanel HorizontalAlignment="Center">
+                    <TextBox x:Name="txb_InfoConferen" Style="{StaticResource MaterialDesignOutlinedTextBox}" VerticalAlignment="Top" Height="100" Width="230" AcceptsReturn="True"
+                             TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" materialDesign:HintAssist.Hint="Insertar Información Conferencia" Cursor="Arrow" />
+                </StackPanel>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center">
+                <Button x:Name="btn_Crear" Content="Crear" FontSize="18" Click="btn_Crear_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

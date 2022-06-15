@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Controladores.ControladorConferencia">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ControladorConferencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controladores.ControladorPersona">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAI=</HashCode>
+      <FileName>ControladorPersona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelos.Conferencia">
+    <Position X="13" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Modelos.Persona">
+    <Position X="15" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Modelos.Sesiones">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Modelos.EF.ConferenciasEntities">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Modelos.EF.Conferencia">
+    <Position X="16.75" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Modelos.EF.ConferenciaPersona">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Modelos.EF.Persona">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

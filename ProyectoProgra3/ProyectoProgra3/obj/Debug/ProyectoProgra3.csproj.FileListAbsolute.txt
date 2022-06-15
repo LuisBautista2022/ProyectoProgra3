@@ -1,0 +1,81 @@
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\ProyectoProgra3.exe.config
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\ProyectoProgra3.exe
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\ProyectoProgra3.pdb
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\MaterialDesignColors.dll
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\MaterialDesignColors.pdb
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.csproj.AssemblyReference.cache
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\MainWindow.g.cs
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\App.g.cs
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3_MarkupCompile.cache
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3_MarkupCompile.lref
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\App.baml
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\MainWindow.baml
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.g.resources
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.Properties.Resources.resources
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.csproj.GenerateResource.cache
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.csproj.CoreCompileInputs.cache
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.exe
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.pdb
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\Login.g.cs
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\obj\Debug\Login.baml
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\Controladores.dll
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\EntityFramework.dll
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\EntityFramework.SqlServer.dll
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\Modelos.dll
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\Controladores.pdb
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\Controladores.dll.config
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\Modelos.pdb
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\Modelos.dll.config
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\EntityFramework.xml
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\ProyectoProgra3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\ProyectoProgra3.exe.config
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.exe
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.pdb
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\ProyectoProgra3.exe
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\ProyectoProgra3.pdb
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\Controladores.dll
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\MaterialDesignColors.dll
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\Modelos.dll
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\Controladores.pdb
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\Controladores.dll.config
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\Modelos.pdb
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\Modelos.dll.config
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Login.g.cs
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3_MarkupCompile.cache
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3_MarkupCompile.lref
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\App.baml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Login.baml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.g.resources
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\ProyectoProgra3.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Error.baml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Error.g.cs
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Ventanas\usc_CrearConferencia.g.cs
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Ventanas\usc_CrearConferencia.baml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Ventanas\Registrarse.g.cs
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Ventanas\Registrarse.baml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Ventanas\usc_ConferenciaOrganizador.g.cs
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Ventanas\usc_ConferenciaOrganizador.baml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Ventanas\usc_ConferenciaCliente.g.cs
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Ventanas\usc_ConferenciaCliente.baml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Ventanas\usc_ConferenciasAgregadasCliente.g.cs
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Ventanas\usc_ConferenciasAgregadasCliente.baml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Ventanas\usc_ClientesRegistrados.g.cs
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\ProyectoProgra3\obj\Debug\Ventanas\usc_ClientesRegistrados.baml

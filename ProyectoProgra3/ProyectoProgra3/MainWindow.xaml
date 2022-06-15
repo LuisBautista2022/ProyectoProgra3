@@ -1,0 +1,65 @@
+﻿<Window x:Class="ProyectoProgra3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoProgra3"
+        mc:Ignorable="d"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+         TextElement.FontWeight="Regular"
+         TextElement.FontSize="13"
+         TextOptions.TextFormattingMode="Ideal"
+         TextOptions.TextRenderingMode="Auto"
+         Background="{DynamicResource MaterialDesignPaper}"
+         FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Menu" Height="500" Width="850" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" ResizeMode="NoResize">
+    <Grid>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Grid.ColumnSpan="2">
+            <Grid Background="#FF76C8BE" Width="240">
+                <ListView x:Name="lvMenu" VerticalAlignment="Center" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionChanged="lvMenu_SelectionChanged">
+                    <ListViewItem x:Name="lv_CrearConferencia" >
+                        <StackPanel Orientation="Horizontal"  Background="Silver" Width="220">
+                            <materialDesign:PackIcon Kind="UserGroup" Width="30" Height="30" VerticalAlignment="Center" Margin="5"/>
+                            <TextBlock Text="Crear Conferencia" FontSize="17" VerticalAlignment="Center" Margin="10 0" Cursor="Arrow"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem x:Name="lv_ConferenciaOrganizador">
+                        <StackPanel Orientation="Horizontal"  Background="Silver" Width="220">
+                            <materialDesign:PackIcon Kind="ClipboardList" Width="30" Height="30" VerticalAlignment="Center" Margin="5"/>
+                            <TextBlock Text="Ver Conferencias" FontSize="17" VerticalAlignment="Center" Margin="10 0"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem  x:Name="lv_ConferenciaCliente">
+                        <StackPanel Orientation="Horizontal"  Background="Silver" Width="220">
+                            <materialDesign:PackIcon Kind="ClipboardList" Width="30" Height="30" VerticalAlignment="Center" Margin="5"/>
+                            <TextBlock Text="Lista Conferencias" FontSize="17" VerticalAlignment="Center" Margin="10 0"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem x:Name="lv_MisConferencias">
+                        <StackPanel Orientation="Horizontal" Background="Silver" Width="220">
+                            <materialDesign:PackIcon Kind="ClipboardListOutline" Width="30" Height="30" VerticalAlignment="Center" Margin="5"/>
+                            <TextBlock Text="Mis Conferencias" FontSize="17" VerticalAlignment="Center" Margin="10 0"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem x:Name="lv_ListaClientesAgregadas">
+                        <StackPanel Orientation="Horizontal" Background="Silver" Width="220">
+                            <materialDesign:PackIcon Kind="ClipboardMinus" Width="30" Height="30" VerticalAlignment="Center" Margin="5"/>
+                            <TextBlock Text="Lista de Cliente" FontSize="17" VerticalAlignment="Center" Margin="10 0"/>
+                        </StackPanel>
+                    </ListViewItem>
+                </ListView>
+            </Grid>
+            <StackPanel>
+                <Button x:Name="btnSalir" Content="Cerrar Sesion" Width="120" HorizontalAlignment="Right" Background="#FF8A5DD8" Click="btnSalir_Click"/>
+                <Grid x:Name="grd_main" Width="610" Height="450">
+                    <Image Source="Imagen/home.png" Margin="0,0,0,0" />
+                    
+                </Grid>
+                
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>

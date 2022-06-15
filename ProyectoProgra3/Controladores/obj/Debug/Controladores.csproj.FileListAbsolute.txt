@@ -1,0 +1,30 @@
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\bin\Debug\Controladores.dll.config
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\bin\Debug\Controladores.dll
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\bin\Debug\Controladores.pdb
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\bin\Debug\EntityFramework.dll
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\bin\Debug\EntityFramework.SqlServer.dll
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\bin\Debug\Modelos.dll
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\bin\Debug\Modelos.pdb
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\bin\Debug\Modelos.dll.config
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\bin\Debug\EntityFramework.xml
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\bin\Debug\EntityFramework.SqlServer.xml
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\obj\Debug\Controladores.csproj.AssemblyReference.cache
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\obj\Debug\Controladores.csproj.CoreCompileInputs.cache
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\obj\Debug\Controladores.dll
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\obj\Debug\Controladores.pdb
+D:\Trabajos\Pruebas\Edson\ProyectoProgra3\Controladores\obj\Debug\Controladores.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\bin\Debug\Controladores.dll.config
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\bin\Debug\Controladores.dll
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\bin\Debug\Controladores.pdb
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\bin\Debug\Modelos.dll
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\bin\Debug\Modelos.pdb
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\bin\Debug\Modelos.dll.config
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\obj\Debug\Controladores.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\obj\Debug\Controladores.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\obj\Debug\Controladores.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\obj\Debug\Controladores.dll
+C:\Users\ASUS\Desktop\Proyecto progra 3\2.01\ProyectoProgra3\Controladores\obj\Debug\Controladores.pdb
